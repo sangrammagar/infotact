@@ -13,7 +13,7 @@ An RL-based system that optimizes traffic light timing to reduce congestion.
 * Training loop (synthetic demo)
 * React frontend (placeholder)
 * Streamlit demo dashboard
-
+============================================================================================
 ## **2️⃣ Pest Infestation Forecaster (ConvLSTM + Satellite Data)**
 
 Forecasts pest spread for the next 1–3 days using NDVI, weather, and drone images.
@@ -25,7 +25,7 @@ Forecasts pest spread for the next 1–3 days using NDVI, weather, and drone ima
 * FastAPI backend (drone upload)
 * Static frontend placeholder
 * Streamlit visualization demo
-
+============================================================================================
 
 ## **3️⃣ Predictive Maintenance for Bike-Sharing (XGBoost)**
 
@@ -39,7 +39,7 @@ Predicts component failures in shared bikes and ranks maintenance priority.
 * React UI placeholder
 * Streamlit maintenance dashboard
 
-
+============================================================================================
 # 📦 Folder Structure
 
 AI-Projects-Portfolio/
@@ -48,7 +48,7 @@ AI-Projects-Portfolio/
 ├── 2-Pest-Infestation-Forecaster/
 ├── 3-Predictive-Maintenance-Bike-Sharing/
 └── streamlit/
-
+============================================================================================
 
 Each project contains:
 
@@ -58,8 +58,7 @@ Each project contains:
 * `frontend/` — React placeholder interface
 * `requirements.txt` — Python dependencies
 
-=====================================================================================================================================================================================================================
-
+============================================================================================
 # ▶️ How to Run
 
 ## **Backend (FastAPI)**
